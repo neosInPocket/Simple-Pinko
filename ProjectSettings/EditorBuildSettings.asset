@@ -11,4 +11,52 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameMain.unity
     guid: 721823eb3ed4cd44987ecfe30a34b28b
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene.unity
+    guid: bf8d39df11a719d49a9db544ebc93b7f
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 1.unity
+    guid: 2ffa9f9b46418184fb055947333ba76c
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 2.unity
+    guid: 79cd438b7a532154893c2d52ea3575c4
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 3.unity
+    guid: db8c80c26d99eb8499c8025e4d4f6de4
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 4.unity
+    guid: 249b252f25e395c49824c3aa562bc1cc
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 5.unity
+    guid: dc48db7a5a6534440a8170970efc05b1
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 6.unity
+    guid: 22f6bb451f00e6e4d82218b14f166059
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 7.unity
+    guid: d42cda19696c99044bbf45def3362fe7
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 8.unity
+    guid: d2b1870bcc2f9584dab408da51d1026c
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 9.unity
+    guid: 850bbd1dacdc1874a9c0948032c4f20a
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 10.unity
+    guid: 6726ad98ee55d79479771130635a9ec4
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 11.unity
+    guid: 8e3b5028ad7dfd746b4b804ba1e7ef35
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 12.unity
+    guid: a35dec3393b418f44b0b708b92bd305f
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 13.unity
+    guid: 36cb3780e253c354a849a4bee1c8ecf8
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 14.unity
+    guid: 52a1adf90489aca41857d7e657b92d0c
+  - enabled: 1
+    path: Assets/Scenes/TapScreenScene 15.unity
+    guid: 4ea650566d4a04c40b1667bddd2e73f6
   m_configObjects: {}
