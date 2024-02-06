@@ -2020,7 +2020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71f588ae57ce0484886ce1f04f6283af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clearOptions: 1
+  clearOptions: 0
   defaultPreferences:
     coins: 0
     tutorial: 1
